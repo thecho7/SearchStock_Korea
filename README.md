@@ -12,7 +12,7 @@
 ## Usage
 1. Creon 실행 및 로그인<br>
   ```
-  python autoconnect.py
+  python autoConnect.py
   ```
 2. 종목 검색 실행<br>
   ```
@@ -20,5 +20,5 @@
   ```
   
 ## Description
-1. autoconnect.py 파일 내의 사용자 계좌 정보를 입력해야 합니다
+1. autoConnect.py 파일 내의 사용자 계좌 정보를 입력해야 합니다
 2. main.py 파일 내 telegramMachine instance를 생성할 때 보낼 Token id 및 Chat id가 필요합니다.
