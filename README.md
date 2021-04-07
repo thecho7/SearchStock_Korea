@@ -7,7 +7,7 @@
 - Windows 10
 - [Python 3.8 32bit](https://www.python.org/downloads/windows/)
 - [대신증권 API Creon/Creon Plus](https://www.creontrade.com/g.ds?p=4108&v=3073&m=4441)
-- Telegram
+- [Telegram](https://desktop.telegram.org/)
 
 ## Usage
 1. Creon 실행 및 로그인<br>
