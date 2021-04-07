@@ -1,4 +1,4 @@
-# SearchStock_Korea
+# Searching Stocks in Korea
 대신증권 Creon을 활용한 종목 검색 프로그램
 
 본 프로그램은 한국 주식시장 내에서 설정한 조건에 맞는 종목들을 찾고, 텔레그램으로 종목 Table을 전송하는 것까지 구현이 되어 있습니다.
